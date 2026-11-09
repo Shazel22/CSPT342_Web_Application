@@ -27,11 +27,12 @@ For this deliverable, you will need to modify the readme file and add responses 
 - Application Name: Think First
 - Description of application: Users will log into the app, set learning goals and work to achieve the goals that they have set through various interactive games and activities. 
 - Target Audience: The intended audience for the application is for adults from ages 18-65.
-- Purpose of the Application: 
-- Intended target audience
-- Identify the various pages your application will have and describe what users will be able to accomplish
+- Purpose of the Application: The purpose of the application is to help reverse the impacts of "AI gravity" and cognitive offloading.  The target audience are individuals who are impacted the most by influx of AI in their education and as they enter the workforce.  Individuals in the workforce are being encouraged to use AI to achieve faster results and deliver against business objectives.  However, it may stifle their own creativity and critical thinking when they are expected to deliver against expedited timelines and potentially sacrifice quality for efficiency.  These practices become habitual and may begin to bleed into everyday life as humans are wired to offload tasks to free up mental resources.  This app aims to reverse the negative impacts of regular AI usage so that people can lead fulfilling lives outside of work and improve memory, cognitive function, and foster creativity and innovation.
+- Application Pages: 
 - Application Goals: 
-- Identify tools/software you will use to complete the project. 
+- Tools/Software:
+
+
 * I suggest using an online coding environment that will allow your team to work collaboratively and practice git commands.  A few are listed below.
    - [Codeeverywhere.com](https://codeeverywhere.com)
    - [Replit.com](https://replit.com/)
