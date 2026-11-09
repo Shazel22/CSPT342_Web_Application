@@ -25,11 +25,12 @@ For this deliverable, you will need to modify the readme file and add responses 
 
 - Name: Skye Hazel
 - Application Name: Think First
-- Description of application *Describe how someone will use your application
-- Describe the need and purpose of the application
+- Description of application: Users will log into the app, set learning goals and work to achieve the goals that they have set through various interactive games and activities. 
+- Target Audience: The intended audience for the application is for adults from ages 18-65.
+- Purpose of the Application: 
 - Intended target audience
 - Identify the various pages your application will have and describe what users will be able to accomplish
-- Identify three goals of the application
+- Application Goals: 
 - Identify tools/software you will use to complete the project. 
 * I suggest using an online coding environment that will allow your team to work collaboratively and practice git commands.  A few are listed below.
    - [Codeeverywhere.com](https://codeeverywhere.com)
