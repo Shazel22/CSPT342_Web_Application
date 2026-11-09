@@ -32,13 +32,18 @@ For this deliverable, you will need to modify the readme file and add responses 
 		○ Login Page: First time users will create an account.  Existing users will log into the application using their username and password. 
 		○ Goals Survey: Users will answer some questions to identify what skills they would like to improve. 
 		○ Preliminary Quiz: Based on the user's goals, they will take a preliminary quiz to assess their skills across the identified domains. 
+      ○ Reading Comprehension Game: Users will read a short passage and then summarize the passage in their own words. 
       ○ Personalized Dashboard: Users will be able to measure progress toward their goals. 
+
 - Application Goals: 
 		1. Help users sharpen independent thinking skills. 
 		2. Give users flexibility to improve the cognitive skills that matter most to them.  Each user's experience should be personalized to their needs and preferences.
       3.  Give users a way to measure progress.
+      
 - Tools/Software:
-
+		○ Github
+		○ VS Code
+      ○ Merriam Webster API
 
 * I suggest using an online coding environment that will allow your team to work collaboratively and practice git commands.  A few are listed below.
    - [Codeeverywhere.com](https://codeeverywhere.com)
