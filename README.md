@@ -34,6 +34,9 @@ For this deliverable, you will need to modify the readme file and add responses 
 		○ Preliminary Quiz: Based on the user's goals, they will take a preliminary quiz to assess their skills across the identified domains. 
       ○ Personalized Dashboard: Users will be able to measure progress toward their goals. 
 - Application Goals: 
+		1. Help users sharpen independent thinking skills. 
+		2. Give users flexibility to improve the cognitive skills that matter most to them.  Each user's experience should be personalized to their needs and preferences.
+      3.  Give users a way to measure progress.
 - Tools/Software:
 
 
