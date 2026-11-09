@@ -29,6 +29,10 @@ For this deliverable, you will need to modify the readme file and add responses 
 - Target Audience: The intended audience for the application is for adults from ages 18-65.
 - Purpose of the Application: The purpose of the application is to help reverse the impacts of "AI gravity" and cognitive offloading.  The target audience are individuals who are impacted the most by influx of AI in their education and as they enter the workforce.  Individuals in the workforce are being encouraged to use AI to achieve faster results and deliver against business objectives.  However, it may stifle their own creativity and critical thinking when they are expected to deliver against expedited timelines and potentially sacrifice quality for efficiency.  These practices become habitual and may begin to bleed into everyday life as humans are wired to offload tasks to free up mental resources.  This app aims to reverse the negative impacts of regular AI usage so that people can lead fulfilling lives outside of work and improve memory, cognitive function, and foster creativity and innovation.
 - Application Pages: 
+		○ Login Page: First time users will create an account.  Existing users will log into the application using their username and password. 
+		○ Goals Survey: Users will answer some questions to identify what skills they would like to improve. 
+		○ Preliminary Quiz: Based on the user's goals, they will take a preliminary quiz to assess their skills across the identified domains. 
+      ○ Personalized Dashboard: Users will be able to measure progress toward their goals. 
 - Application Goals: 
 - Tools/Software:
 
